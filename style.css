@@ -209,10 +209,10 @@ color: #495057;
  ---------- 2nd col --------- 
 */
 #main .col-md-5 {
-  padding: 7% 7%;
+  padding: 12% 7%;
   background: #0eca97;
   color: #fff;
-  background-image: linear-gradient(#0eca98cb,#0acad1), url(./images/1-removebg-preview.png);
+  background-image: linear-gradient(#0cca9a88,#0eca7c67) , url(./images/1-removebg-preview.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -251,7 +251,7 @@ color: #495057;
   padding: 10px 42px;
   border-radius: 25px;
   color: #ffffff;
-  background: #0acad1;
+  background: #0cca9a;
   border: 2px solid #ffffff;
   transition: all 250ms ease-in-out;
 }
