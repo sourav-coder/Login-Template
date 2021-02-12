@@ -247,6 +247,10 @@ color: #495057;
   font-family: "Courier New", Courier, monospace;
 }
 
+#main .col-md-5 p{
+  font-size: 20px;
+}
+
 #main .col-md-5 .btn {
   padding: 10px 42px;
   border-radius: 25px;
